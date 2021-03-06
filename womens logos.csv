@@ -1,0 +1,14 @@
+league,team_name,team_city,team_nick,team_abbr,team_color,team_color2,team_color3,team_color4,team_logo
+NWHL,Boston Pride,Boston,Pride,BOS,#fec52e,#000000,#ffffff,#9d9691,https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Boston_Pride_logo.png/175px-Boston_Pride_logo.png
+NWHL,Buffalo Beauts,Buffalo,Beauts,BUF,#69B1E3,#000000,#ffffff ,#69B1E3,https://upload.wikimedia.org/wikipedia/en/e/e8/Buffalo_Beauts.png
+NWHL,Connecticut Whale,Connecticut,Whale,CTW,#2c9942,#0033a1,#ffffff ,#2c9942,https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/CT_Whale_logo.svg/1200px-CT_Whale_logo.svg.png
+NWHL,Metropolitan Riveters,Metropolitan,Riveters,MET,#d62d34,#0c6199,#ffffff ,#f8dfa7,https://upload.wikimedia.org/wikipedia/en/2/2f/Metro_Riveters.PNG
+NWHL,Minnesota Whitecaps,Minnesota,Whitecaps,MIN,#000000,#1c449c,#ffffff,#cfd0d2,https://upload.wikimedia.org/wikipedia/en/6/69/MinnesotaWhitecaps.png
+NWHL,Toronto Six,Toronto,Six,TOR,#ED1C24,#CCAD6E,#040707,#ffffff,https://upload.wikimedia.org/wikipedia/en/9/93/Toronto_Six_Logo.png
+Olympics,Olympic (Women) - Canada,Canada,Canada,CAN,#ff0000,#ffffff,#ff0000,#ffffff,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1200px-Flag_of_Canada_%28Pantone%29.svg.png
+Olympics,Olympic (Women) - Olympic Athletes from Russia,Russia,Russia,RUS,#ffffff,#0039a6,#d52b1e,#d52b1e,https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png
+Olympics,Olympic (Women) - Finland,Finland,Finland,FIN,#003580,#ffffff,#003580,#ffffff,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1800px-Flag_of_Finland.svg.png
+Olympics,Olympic (Women) - United States,United States,United States,USA,#3c3b6e,#b22234,#ffffff,#3c3b6e,https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png
+NCAA,St. Lawrence Saints,St. Lawrence,Saints,SLU,#ac1c2c,#4c2b23,#e7ce92,#ffffff,https://upload.wikimedia.org/wikipedia/en/thumb/4/48/St._Lawrence_Saints_logo.svg/1200px-St._Lawrence_Saints_logo.svg.png
+NCAA,Clarkson Golden Knights,Clarkson,Golden Knights,CGK,#0d4c42,#f3cb0e,#ffffff,#f3cb0e,https://www.clarkson.edu/sites/default/files/styles/large/public/media/image/2019-08/athletic-logo.png?itok=FB5gy6LI
+,,,,,,,,,https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Barrie_Colts_Logo.svg/1200px-Barrie_Colts_Logo.svg.png
